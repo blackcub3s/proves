@@ -1,4 +1,8 @@
 p {
     background-color: orange;
-    color: green; /*segon commit rama 2*/
+    color: green; /*segon commit seccio2*/
+}
+
+p:hover {
+    color: red;
 }
